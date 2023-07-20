@@ -1,8 +1,0 @@
-0.1 | Full | Raw | PCA = 5 | actDCF = 0.965 | MinDCF = 0.458
-0.5 | Full | Raw | PCA = 5 | actDCF = 0.141 | MinDCF = 0.127
-0.1 | Full | Raw | PCA = 6 | actDCF = 0.956 | MinDCF = 0.476
-0.5 | Full | Raw | PCA = 6 | actDCF = 0.144 | MinDCF = 0.131
-0.1 | Full | Normalized | PCA = 5 | actDCF = 1.0 | MinDCF = 0.696
-0.5 | Full | Normalized | PCA = 5 | actDCF = 1.0 | MinDCF = 0.297
-0.1 | Full | Normalized | PCA = 6 | actDCF = 1.0 | MinDCF = 0.693
-0.5 | Full | Normalized | PCA = 6 | actDCF = 1.0 | MinDCF = 0.291
